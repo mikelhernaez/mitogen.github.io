@@ -15,6 +15,10 @@ permalink: /people/
   <img src="/logos/upc_logomark.png" alt="Polytechnic University of Catalonia" height="60px">
 </a>
 &nbsp;
+<a href="https://www.ugent.be/en">
+  <img src="/logos/ughent.png" alt="Ghent University" height="60px">
+</a>
+&nbsp;
 <a href="https://www.uni-hannover.de/en/">
   <img src="/logos/luh_logo.svg" alt="University of Hannover" height="60px">
 </a>

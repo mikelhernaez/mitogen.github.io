@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 - [Ochoa](http://idoia.ece.illinois.edu/) group (Idoia Ochoa), UIUC
-- [Ostermann](https://www.tnt.uni-hannover.de/staff/osterman/) group ([Jan Voges](https://www.tnt.uni-hannover.de/staff/voges/), Fabian Müntefering), University of Hannover
+- [Ostermann](https://www.tnt.uni-hannover.de/staff/osterman/) group ([Jan Voges](https://www.tnt.uni-hannover.de/staff/voges/), Fabian Müntefering), Leibniz University Hannover
 - [Weissman](https://web.stanford.edu/~tsachy/) group ([Shubham Chandak](https://schandak.people.stanford.edu/)), Stanford University
 - [Jaime Delgado](https://imp.upc.edu/en/members/jaime-delgado), Polytechnic University of Catalonia
 - [Mikel Hernaez](http://mikelhernaez.github.io/), UIUC

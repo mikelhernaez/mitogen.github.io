@@ -6,13 +6,13 @@ permalink: /people/
 - [Ochoa](http://idoia.ece.illinois.edu/) group (Idoia Ochoa), UIUC
 - [Ostermann](https://www.tnt.uni-hannover.de/staff/osterman/) group ([Jan Voges](https://www.tnt.uni-hannover.de/staff/voges/), Fabian Müntefering), Leibniz University Hannover
 - [Weissman](https://web.stanford.edu/~tsachy/) group ([Shubham Chandak](https://schandak.people.stanford.edu/)), Stanford University
-- [Jaime Delgado](https://imp.upc.edu/en/members/jaime-delgado), Polytechnic University of Catalonia
+- [Jaime Delgado](https://imp.upc.edu/en/members/jaime-delgado), Universitat Politècnica de Catalunya (UPC)
 - [Mikel Hernaez](http://mikelhernaez.github.io/), UIUC
-- [Daniel Naro](mailto:dnaro@ac.upc.edu), Polytechnic University of Catalonia
+- [Daniel Naro](mailto:dnaro@ac.upc.edu), Universitat Politècnica de Catalunya (UPC)
 - [Tom Paridaens](https://biblio.ugent.be/person/802000039745), Ghent University
 
 <a href="https://www.upc.edu/ca">
-  <img src="/logos/upc_logomark.png" alt="Polytechnic University of Catalonia" height="60px">
+  <img src="/logos/upc_logomark.png" alt="Universitat Politècnica de Catalunya (UPC)" height="60px">
 </a>
 &nbsp;
 <a href="https://www.ugent.be/en">

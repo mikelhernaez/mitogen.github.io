@@ -15,9 +15,9 @@ permalink: /software/
 # FASTQ/SAM compression
 
 - **AFRESh**: an adaptive framework for compression of reads and assembled sequences with random access functionality [[GitHub](https://github.com/tparidae/AFresh)] [[Paper](https://academic.oup.com/bioinformatics/article/33/10/1464/2840131)]
-- **AliCo**: A new efficient representation for SAM files [[GitHub](https://github.com/iochoa/alico)]
-- **SPRING**: FASTQ compression [[GitHub](https://github.com/shubhamchandak94/Spring)] [[Paper]()]
-- **TSC**: TNT sequence compressor [[GitHub](https://github.com/voges/tsc)] [[Paper]()]
+- **AliCo**: a new efficient representation for SAM files [[GitHub](https://github.com/iochoa/alico)]
+- **SPRING**: A next-generation compressor for FASTQ data [[GitHub](https://github.com/shubhamchandak94/Spring)] [[Paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty1015/5232998)]
+- **TSC**: Predictive Coding of Aligned Next-Generation Sequencing Data [[GitHub](https://github.com/voges/tsc)] [[Paper](https://ieeexplore.ieee.org/abstract/document/7786168)]
 
 # Quality score compression
 

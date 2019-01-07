@@ -3,11 +3,11 @@ layout: page
 title: People
 permalink: /people/
 ---
-- [Ochoa](http://idoia.ece.illinois.edu/) group (Idoia Ochoa), UIUC
-- [Ostermann](https://www.tnt.uni-hannover.de/staff/osterman/) group ([Jan Voges](https://www.tnt.uni-hannover.de/staff/voges/), Fabian Müntefering), Leibniz University Hannover
-- [Weissman](https://web.stanford.edu/~tsachy/) group ([Shubham Chandak](https://schandak.people.stanford.edu/)), Stanford University
-- [Jaime Delgado](https://imp.upc.edu/en/members/jaime-delgado), Universitat Politècnica de Catalunya (UPC)
-- [Mikel Hernaez](http://mikelhernaez.github.io/), UIUC
+- [Prof. Delgado group](https://imp.upc.edu/en/members/jaime-delgado), Universitat Politècnica de Catalunya (UPC)
+- [Dr. Hernaez group](http://mikelhernaez.github.io/), Carl R. Woese Institute for Genomic Biology (IGB), UIUC
+- [Prof. Ochoa group](http://idoia.ece.illinois.edu/) group (Idoia Ochoa), University of Illinois at Urbana-Champaign (UIUC)
+- [Prof. Ostermann group](https://www.tnt.uni-hannover.de/staff/osterman/) group ([Jan Voges](https://www.tnt.uni-hannover.de/staff/voges/), Fabian Müntefering), Leibniz University Hannover
+- [Prof. Weissman group](https://web.stanford.edu/~tsachy/) group ([Shubham Chandak](https://schandak.people.stanford.edu/)), Stanford University
 - [Daniel Naro](mailto:dnaro@ac.upc.edu), Universitat Politècnica de Catalunya (UPC)
 - [Tom Paridaens](https://biblio.ugent.be/person/802000039745), Ghent University
 

@@ -21,10 +21,10 @@ permalink: /software/
 
 # Quality score compression
 
-- **AQUa**: an adaptive framework for compression of sequencing quality scores with random access functionality [[GitHub](https://github.com/tparidae/AQUa)] [[Paper]()]
-- **CALQ**: Coverage-adaptive lossy quality value compression [[GitHub](https://github.com/voges/calq)] [[Paper]()]
-- **QScomp**: Quality score compression [[GitHub](https://github.com/voges/qscomp)] [[Paper]()]
-- **QVZ**: Lossy compression of quality values [[GitHub](https://github.com/mikelhernaez/qvz)] [[Paper]()]
+- **AQUa**: an adaptive framework for compression of sequencing quality scores with random access functionality [[GitHub](https://github.com/tparidae/AQUa)] [[Paper](https://academic.oup.com/bioinformatics/article/34/3/425/4222632)]
+- **CALQ**: compression of quality values of aligned sequencing data [[GitHub](https://github.com/voges/calq)] [[Paper](https://academic.oup.com/bioinformatics/article/34/10/1650/4653693)]
+- **QScomp**: A Two-level Scheme for Quality Score Compression [[GitHub](https://github.com/voges/qscomp)] [[Paper](https://www.liebertpub.com/doi/10.1089/cmb.2018.0065)]
+- **QVZ**: lossy compression of quality values [[GitHub](https://github.com/mikelhernaez/qvz)] [[Paper](https://academic.oup.com/bioinformatics/article/31/19/3122/211178)]
 
 # Miscellaneous
 

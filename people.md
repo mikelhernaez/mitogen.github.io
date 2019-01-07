@@ -20,11 +20,11 @@ permalink: /people/
 </a>
 &nbsp;
 <a href="https://www.uni-hannover.de/en/">
-  <img src="/logos/luh_logo.svg" alt="University of Hannover" height="60px">
+  <img src="/logos/luh_logo.svg" alt="Leibniz University Hannover" height="60px">
 </a>
 &nbsp;
 <a href="https://www.illinois.edu/">
-  <img src="/logos/illinois.jpg" alt="University of Illinois Urbana-Champaign" height="60px">
+  <img src="/logos/illinois.jpg" alt="University of Illinois at Urbana-Champaign" height="60px">
 </a>
 &nbsp;
 <a href="https://www.stanford.edu/">
